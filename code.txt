@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 hello world
 xin chao nhon
 xin chao nam
+=======
+hollo world
+>>>>>>> nam
